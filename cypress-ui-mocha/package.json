@@ -1,0 +1,27 @@
+{
+  "name": "cypress-ui-mocha",
+  "version": "1.0.0",
+  "description": "Getting started template cypress and mocha for GUI automation",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run",
+    "test:chrome": "./node_modules/.bin/cypress run --browser chrome --headed",
+    "test:chrome:headless": "./node_modules/.bin/cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridharbandi/cypress-getting-started-examples.git"
+  },
+  "keywords": [
+    "Cypress",
+    "Mocha"
+  ],
+  "author": "Sridhar Bandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridharbandi/cypress-getting-started-examples/issues"
+  },
+  "homepage": "https://github.com/sridharbandi/cypress-getting-started-examples#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
