@@ -1,7 +1,7 @@
 {
-  "name": "cypress-ui-mocha",
+  "name": "cypress-ui-mocha-javascript",
   "version": "1.0.0",
-  "description": "Getting started template cypress and mocha for GUI automation",
+  "description": "Getting started template cypress and mocha for Web automation",
   "scripts": {
     "test": "./node_modules/.bin/cypress run",
     "test:chrome": "./node_modules/.bin/cypress run --browser chrome --headed",
@@ -13,7 +13,8 @@
   },
   "keywords": [
     "Cypress",
-    "Mocha"
+    "Mocha",
+    "Javascript"
   ],
   "author": "Sridhar Bandi",
   "license": "ISC",
