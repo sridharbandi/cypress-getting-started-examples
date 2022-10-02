@@ -1,5 +1,5 @@
 {
-  "name": "cypress-ui-cucumber",
+  "name": "cypress-ui-cucumber-javascript",
   "version": "1.0.0",
   "description": "Getting started template cypress and Cucumber for Web automation",
   "scripts": {
@@ -11,8 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/sridharbandi/cypress-getting-started-examples.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Cypress",
+    "Cucumber",
+    "Javascript"
+  ],
+  "author": "Sridhar Bandi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sridharbandi/cypress-getting-started-examples/issues"
