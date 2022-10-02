@@ -1,8 +1,7 @@
 {
-  "name": "cypress-getting-started-examples",
+  "name": "cypress-ui-mocha-typescript",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Getting started Cypress, Mocha and Typescript template for Web automation",
   "scripts": {
     "test": "./node_modules/.bin/cypress run",
     "test:chrome": "./node_modules/.bin/cypress run --browser chrome --headed",
@@ -12,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/sridharbandi/cypress-getting-started-examples.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Cypress", "Mocha", "Typescript"],
+  "author": "Sridhar Bandi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sridharbandi/cypress-getting-started-examples/issues"
